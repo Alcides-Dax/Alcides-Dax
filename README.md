@@ -5,16 +5,16 @@
 
 <br>
 
-### 💻 Sobre mim:
+###  Sobre mim:
 
-* 📊 Analista de Dados focado em transformar planilhas caóticas em lucro e decisões estratégicas.
-* 🎓 Concluindo a graduação em **Análise e Desenvolvimento de Sistemas (ADS)**.
-* 🎯 Próximos passos acadêmicos: Iniciar a formação em **Ciência de Dados** e avançar no **Inglês** técnico.
-* ⚙️ Experiência prática com estruturação de dados utilizando **Databricks**, automações e painéis complexos no **Power BI (DAX)**.
+ Analista de Dados focado em transformar planilhas caóticas em lucro e decisões estratégicas.
+ Concluindo a graduação em **Análise e Desenvolvimento de Sistemas (ADS)**.
+ Próximos passos acadêmicos: Iniciar a formação em **Ciência de Dados** e avançar no **Inglês** técnico.
+ Experiência prática com estruturação de dados utilizando **Databricks**, automações e painéis complexos no **Power BI (DAX)**.
 
 <br>
 
-### 🛠️ Habilidades Tecnológicas
+###  Habilidades Tecnológicas
 
 <div style="display: inline-block;">
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -26,10 +26,10 @@
 
 <br><br>
 
-### 📂 Guia de Repositórios
+###  Guia de Repositórios
 
-* 💼 **[Portfólio](#):** Projetos de análise de dados e dashboards desenvolvidos para clientes (Em breve).
-* 🐍 **[Scripts e Automações](#):** Códigos em Python e consultas SQL para limpeza e extração de dados (ETL).
+ **[Portfólio](#):** Projetos de análise de dados e dashboards desenvolvidos para clientes (Em breve).
+ **[Scripts e Automações](#):** Códigos em Python e consultas SQL para limpeza e extração de dados (ETL).
 
 <br>
 

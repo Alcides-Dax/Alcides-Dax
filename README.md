@@ -1,39 +1,39 @@
 <div align="center">
   <h2>Olá! 👋 Prazer, sou o Alcides Gustavo!</h2>
-  <h4>Este é meu repositório de Análise de Dados e Business Intelligence.</h4>
+  <h4>Bem-vindo ao meu repositório de Análise de Dados e Business Intelligence.</h4>
 </div>
 
 <br>
 
-###  Sobre mim:
+###  Sobre minha jornada:
 
- Analista de Dados focado em transformar planilhas caóticas em lucro e decisões estratégicas.
- Concluindo a graduação em **Análise e Desenvolvimento de Sistemas (ADS)**.
- Próximos passos acadêmicos: Iniciar a formação em **Ciência de Dados** e avançar no **Inglês** técnico.
- Experiência prática com estruturação de dados utilizando **Databricks**, automações e painéis complexos no **Power BI (DAX)**.
+*  **Atualmente:** Atuo como **Analista de Dados**. Meu foco é estruturar dados complexos e criar Dashboards interativos utilizando **Python, SQL, Power BI, Databricks, IA e Excel**.
+*  **Background Profissional:** Iniciei minha trajetória na tecnologia como **Help Desk Nível 1** em uma empresa de call center. Durante 1 ano, fui responsável pelo suporte direto de software e hardware, resolvendo gargalos operacionais tanto para os colaboradores quanto para a diretoria. Isso me deu uma visão forte de resolução de problemas no mundo corporativo.
+*  **Acadêmico:** Estou na reta final da graduação em **Análise e Desenvolvimento de Sistemas (ADS)**, com foco futuro em Ciência de Dados.
+* **Objetivo aqui:** A partir de agora, utilizarei esta plataforma ativamente. Vou atualizar meu GitHub com frequência para subir meus **projetos pessoais**, compartilhar códigos de automação e documentar minha evolução na área de dados.
 
 <br>
 
-###  Habilidades Tecnológicas
+### Minhas Ferramentas
 
-<div style="display: inline-block;">
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img align="center" alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img align="center" alt="Excel" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img align="center" alt="Databricks" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+<div style="display: flex; gap: 15px; align-items: center;">
+  <img src="https://img.icons8.com/fluency/48/python.png" alt="Python" title="Python"/>
+  <img src="https://img.icons8.com/fluency/48/database.png" alt="SQL" title="SQL"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" title="Power BI"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" title="Excel"/>
+  <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" alt="Inteligência Artificial" title="IA"/>
 </div>
 
 <br><br>
 
 ###  Guia de Repositórios
 
- **[Portfólio](#):** Projetos de análise de dados e dashboards desenvolvidos para clientes (Em breve).
- **[Scripts e Automações](#):** Códigos em Python e consultas SQL para limpeza e extração de dados (ETL).
+*  **[Portfólio Pessoal](#):** Projetos práticos de análise de dados, Dashboards e integrações corporativas (Em breve).
+*  **[Scripts e Automações](#):** Códigos em Python e consultas SQL para limpeza e extração de dados (ETL).
 
 <br>
 
-### 🌐 Redes
+### 🌐 Conecte-se comigo
 
 <a href="https://www.linkedin.com/in/alcides-gustavo-56b888301/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
